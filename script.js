@@ -16,9 +16,7 @@ function adicionar() {
     aparecer_na_tela()
 
     
-    if (texto.value == 0) {
-        alert('erro')
-    }
+   
 }
 
 function aparecer_na_tela() {
